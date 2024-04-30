@@ -23,3 +23,14 @@ Jogo da velha em C, feito puramente por aprendizado.
 7.  **Mudar de jogador**: Se ninguém venceu, o jogo alterna para o outro jogador e o processo é repetido.
     
 8.  **Terminar o jogo**: O jogo termina quando um jogador vence ou quando todas as células estão preenchidas sem um vencedor (empate).
+
+---
+
+### Detalhes das Funções do Código
+
+-   **Função `showBoard`**: Exibe o tabuleiro de jogo mostrando as células preenchidas e vazias.
+-   **Função `jogar`**: Permite que um jogador faça uma jogada nas coordenadas especificadas. Verifica se a célula está vazia para permitir a jogada.
+-   **Função `validCord`**: Verifica se uma coordenada (`x` ou `y`) é válida (entre `0` e `2` inclusive).
+-   **Função `infInvalidCord`**: Exibe uma mensagem indicando que as coordenadas fornecidas são inválidas.
+-   **Função `verifyWin`**: Verifica se um jogador venceu o jogo com base nas combinações vencedoras definidas para o jogo.
+-   **Função `main`**: Controla o fluxo do jogo, alternando entre os jogadores, solicitando jogadas, verificando vitórias e mostrando mensagens de conclusão do jogo.
