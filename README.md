@@ -2,7 +2,9 @@
 Jogo da velha em C, feito puramente por aprendizado.
 
 ### Como Jogar o Jogo
-<img src="./jogo-da-velha-terminal.png"/>
+<div align="center">
+    <img src="./jogo-da-velha-terminal.png" style="width: 40vw;"/>
+</div>
 
 ### Como Jogar o Jogo
 
