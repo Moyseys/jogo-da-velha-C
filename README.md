@@ -34,3 +34,12 @@ Jogo da velha em C, feito puramente por aprendizado.
 -   **Função `infInvalidCord`**: Exibe uma mensagem indicando que as coordenadas fornecidas são inválidas.
 -   **Função `verifyWin`**: Verifica se um jogador venceu o jogo com base nas combinações vencedoras definidas para o jogo.
 -   **Função `main`**: Controla o fluxo do jogo, alternando entre os jogadores, solicitando jogadas, verificando vitórias e mostrando mensagens de conclusão do jogo.
+
+---
+
+### Créditos
+
+Este projeto foi desenvolvido por:
+
+-   **[Moyseys Veroni](https://github.com/Moyseys)**
+-   **[Ana Clara](https://github.com/AnaClaraM1ss10)**
